@@ -1,7 +1,7 @@
 ---
 title: Iain-Gordon Macfarlane
 subtitle: Musician
-image: /img/home-jumbotron.jpg
+image: /img/_mg_0034.jpg
 blurb:
   heading: Biography
   text: >-
